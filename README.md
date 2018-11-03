@@ -2,6 +2,9 @@
 In this project, I am analyzing data on gun deaths in the US. 
 The dataset is stored in the guns.csv file. It contains information on gun deaths in the US from 2012 to 2014. Each row in the dataset represents a single fatality. The columns contain demographic and other information about the victim.
  Here's an explanation of each column:
+ 
+ Header | Definition
+---|---------
 
 -- this is an identifier column, which contains the row number. It's common in CSV files to include a unique identifier for each row, but we can ignore it in this analysis.
 
