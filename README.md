@@ -30,4 +30,4 @@ education- educational status of the victim. Can be one of the following:
 4. At least graduated from College
 5. Not available
 
-The data stored in the census.csv file, only consists of two rows. The data contains information on the total population of the US, as well as the total population of each racial group in the US.  the first row is a header row, and the second row consists of population counts.
+The data stored in the census.csv file, only consists of two rows. The data contains information on the total population of the US, as well as the total population of each racial group in the US.  The first row is a header row, and the second row consists of population counts.
