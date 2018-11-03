@@ -12,7 +12,7 @@ Header | Definition
 
 month- the month in which the fatality occurred.
 
-intent- the intent of the perpetrator of the crime. This can be Suicide, Accidental, NA, Homicide, or Undetermined.
+'intent'  | the intent of the perpetrator of the crime. This can be Suicide, Accidental, NA, Homicide, or Undetermined.
 
 police- whether a police officer was involved with the shooting. Either 0 (false) or 1 (true).
 
