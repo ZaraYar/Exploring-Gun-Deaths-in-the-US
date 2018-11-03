@@ -6,9 +6,9 @@ The dataset is stored in the guns.csv file. It contains information on gun death
  Header | Definition
 ---|---------
 
--- this is an identifier column, which contains the row number. It's common in CSV files to include a unique identifier for each row, but we can ignore it in this analysis.
+-- |  this is an identifier column, which contains the row number. It's common in CSV files to include a unique identifier for each row, but we can ignore it in this analysis.
 
-year- the year in which the fatality occurred.
+year|  the year in which the fatality occurred.
 
 month- the month in which the fatality occurred.
 
